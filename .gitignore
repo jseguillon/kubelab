@@ -1,0 +1,4 @@
+.bin/
+.ansible-venv/
+terraform/.*
+terraform/terraform.tfstate*
